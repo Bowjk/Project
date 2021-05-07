@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1fcae47e-df7d-473e-9d91-5ad4cc9896f4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qvRPiO9n6dgQ5NFPdRTiBEzKNS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.CustomerTest">
+    <configuration name="BankTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exer02.BankTest" />
+      <module name="day10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exer02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BoyGirlTesr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exer0.BoyGirlTesr" />
+      <module name="day10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exer0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exer1.CustomerTest" />
+      <module name="day10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exer1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch03.PersonTest" />
+      <module name="day10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriAngleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exer0.TriAngleTest" />
+      <module name="day10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exer0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CustomerTest" />
+        <item itemvalue="Application.BankTest" />
+        <item itemvalue="Application.BoyGirlTesr" />
+        <item itemvalue="Application.PersonTest (1)" />
+        <item itemvalue="Application.TriAngleTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1fcae47e-df7d-473e-9d91-5ad4cc9896f4" name="Default Changelist" comment="" />
+      <created>1617958054384</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617958054384</updated>
+      <workItem from="1617958056376" duration="1578000" />
+      <workItem from="1617968145755" duration="1838000" />
+      <workItem from="1618053560784" duration="6000" />
+      <workItem from="1618125670077" duration="5488000" />
+      <workItem from="1618139314821" duration="2040000" />
+      <workItem from="1618146505824" duration="3000" />
+      <workItem from="1618188230252" duration="3990000" />
+      <workItem from="1618228467032" duration="2422000" />
+      <workItem from="1618291797200" duration="3756000" />
+      <workItem from="1618473869819" duration="2031000" />
+      <workItem from="1618660364502" duration="603000" />
+      <workItem from="1618710783559" duration="49000" />
+      <workItem from="1618711712423" duration="637000" />
+      <workItem from="1618904078792" duration="952000" />
+      <workItem from="1618929691075" duration="651000" />
+      <workItem from="1618930951915" duration="195000" />
+      <workItem from="1619175264536" duration="10000" />
+      <workItem from="1619704912603" duration="98000" />
+      <workItem from="1619770624388" duration="21000" />
+      <workItem from="1619957125443" duration="1262000" />
+      <workItem from="1620004338102" duration="38000" />
+      <workItem from="1620092561310" duration="9000" />
+      <workItem from="1620182350559" duration="11000" />
+      <workItem from="1620182388908" duration="286000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="447" y="61" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617958082377">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="61" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1617958082377" />
+    <state x="499" y="111" key="FileChooserDialogImpl" timestamp="1620004368381">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="111" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1620004368381" />
+    <state width="1483" height="195" key="GridCell.Tab.0.bottom" timestamp="1618712354681">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1618712354681" />
+    <state width="1483" height="195" key="GridCell.Tab.0.center" timestamp="1618712354681">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1618712354681" />
+    <state width="1483" height="195" key="GridCell.Tab.0.left" timestamp="1618712354680">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1618712354680" />
+    <state width="1483" height="195" key="GridCell.Tab.0.right" timestamp="1618712354681">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1618712354681" />
+    <state x="775" y="196" key="com.intellij.ide.util.TipDialog" timestamp="1620004344679">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="775" y="196" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1620004344679" />
+    <state x="0" y="0" key="new project wizard" timestamp="1620004374191">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1620004374191" />
+    <state x="334" y="117" width="840" height="1034" key="search.everywhere.popup" timestamp="1618229120885">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="334" y="117" width="840" height="1034" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1618229120885" />
+  </component>
+</project>
